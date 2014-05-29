@@ -1,0 +1,14 @@
+# Logfile created on 2014-05-29 15:14:05 -0400 by logger.rb/31641
+I, [2014-05-29T15:14:05.170865 #160032]  INFO -- : 0:  unf_ext (0.0.6) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/unf_ext-0.0.6.gemspec
+I, [2014-05-29T15:14:06.186060 #160032]  INFO -- : 0:  unf (0.1.4) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/unf-0.1.4.gemspec
+I, [2014-05-29T15:14:07.075245 #160032]  INFO -- : 0:  domain_name (0.5.18) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/domain_name-0.5.18.gemspec
+I, [2014-05-29T15:14:07.982739 #160032]  INFO -- : 0:  http-cookie (1.0.2) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/http-cookie-1.0.2.gemspec
+I, [2014-05-29T15:14:09.074628 #160032]  INFO -- : 0:  mime-types (2.3) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/mime-types-2.3.gemspec
+I, [2014-05-29T15:14:09.886831 #160032]  INFO -- : 0:  net-http-digest_auth (1.4) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/net-http-digest_auth-1.4.gemspec
+I, [2014-05-29T15:14:10.788849 #160032]  INFO -- : 0:  net-http-persistent (2.9.4) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/net-http-persistent-2.9.4.gemspec
+I, [2014-05-29T15:14:11.588645 #160032]  INFO -- : 0:  mini_portile (0.6.0) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/mini_portile-0.6.0.gemspec
+I, [2014-05-29T15:21:25.695148 #160032]  INFO -- : 0:  nokogiri (1.6.2.1) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/nokogiri-1.6.2.1.gemspec
+I, [2014-05-29T15:21:26.769429 #160032]  INFO -- : 0:  ntlm-http (0.1.1) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/ntlm-http-0.1.1.gemspec
+I, [2014-05-29T15:21:27.590410 #160032]  INFO -- : 0:  webrobots (0.1.1) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/webrobots-0.1.1.gemspec
+I, [2014-05-29T15:21:29.667557 #160032]  INFO -- : 0:  mechanize (2.7.3) from /var/lib/stickshift/5384ba01e0b8cd22030005c9/app-root/data/lib/ruby/gems/specifications/mechanize-2.7.3.gemspec
+I, [2014-05-29T15:21:29.668833 #160032]  INFO -- : 0:  bundler (1.5.1) from /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/specifications/bundler-1.5.1.gemspec
